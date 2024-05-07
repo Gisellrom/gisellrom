@@ -1,17 +1,19 @@
-![you](https://github.com/Gisellrom/gisellrom/assets/100894396/1cf65246-5d74-4c09-990f-72c0d002c913)
+![you](https://github.com/Gisellrom/gisellrom/assets/100894396/717fcd4d-51b1-4b0b-b1af-21c309af1d34)
+
 
 # Hola, soy Gisell Soriano Romero 👋
 
-- 💻 Licenciatura en Computación
-- 📚 Estudiante de la Universidad Autónoma Metropolitana
-- 🤖 Me gusta aprender nuevas tecnologías
+- 💻 Estudiante de la Licenciatura en Computación
+- 📚 Universidad Autónoma Metropolitana
 <ul>
   <li>
     <a href="https://gisellrom.github.io/" target="_blank" style="text-decoration:none">
-      🚀 Mi portafolio
+      🚀 Visita mi portafolio 
     </a>
   </li>
 </ul>
+
+- 🌱 Actualmente estoy aprendiendo a utilizar API's en Java
 
 # Redes sociales
 
