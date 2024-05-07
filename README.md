@@ -1,11 +1,6 @@
-# Hola 👋
+![you](https://github.com/Gisellrom/gisellrom/assets/100894396/1cf65246-5d74-4c09-990f-72c0d002c913)
 
-
-<p align="center">
-  <img src="you.gif" alt="Mi presentacion" />
-</p>
-
-# Soy Gisell Soriano Romero
+# Hola, soy Gisell Soriano Romero 👋
 
 - 💻 Licenciatura en Computación
 - 📚 Estudiante de la Universidad Autónoma Metropolitana
