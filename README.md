@@ -1,7 +1,7 @@
 ![you](https://github.com/Gisellrom/gisellrom/assets/100894396/717fcd4d-51b1-4b0b-b1af-21c309af1d34)
 
 
-# Hola, soy Gisell Soriano Romero 👋
+# Hola, soy Gisell Noemi Soriano Romero 👋
 
 - 💻 Estudiante de la Licenciatura en Computación
 - 📚 Universidad Autónoma Metropolitana
