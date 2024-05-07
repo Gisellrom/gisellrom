@@ -9,7 +9,14 @@
 
 - 💻 Licenciatura en Computación
 - 📚 Estudiante de la Universidad Autónoma Metropolitana
-- 💻 Me gusta aprender nuevas tecnologías
+- 🤖 Me gusta aprender nuevas tecnologías
+<ul>
+  <li>
+    <a href="https://gisellrom.github.io/" target="_blank" style="text-decoration:none">
+      🚀 Mi portafolio
+    </a>
+  </li>
+</ul>
 
 # Redes sociales
 
